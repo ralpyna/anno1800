@@ -1,0 +1,13 @@
+{
+    "ship": {
+        "trade": [1621, 543]
+    },
+    "store": {
+        "equipments": {
+            "tab_trade_item": [1424, 427],
+            "dice": [1353, 800],
+            "trade_done": [961, 857],
+            "exit": [1479, 231]
+        }
+    }
+}
